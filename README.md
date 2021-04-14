@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codepharmer
-- 👀 I’m interested in most things math or cs related
+- 👀 I’m interested in most things related to math and cs
 - 🌱 I’m currently learning numpy, scikit-learn, pandas, and matplotlib.pyplot
 - 📫 codepharmer.github.io for more info
 
