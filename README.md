@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codepharmer
 - 👀 I’m interested in most things related to math and cs
-- 🌱 I’m currently learning numpy, scikit-learn, pandas, and matplotlib.pyplot
+- 🌱 I’m currently working on a project using Elasticsearch
 - 📫 codepharmer.github.io for more info
 
 <!---
