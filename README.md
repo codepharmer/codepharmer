@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codepharmer
 - 👀 I’m interested in most things related to math and cs
-- 🌱 I’m currently working on a project using Elasticsearch
+<!--- - 🌱 I’m currently working on a project using Elasticsearch --->
 - 📫 https://hire-nw.com for more info
 
 <!---
